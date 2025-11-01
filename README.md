@@ -1,6 +1,7 @@
 # EffPolypSeg: An Efficient Deep Learning Algorithm for Polyp Segmentation in Colonoscopy
 
 The implementation and experimental setup are provided as supplementary materials to support the findings presented in our manuscript, **"EffPolypSeg: An Efficient Deep Learning Algorithm for Polyp Segmentation in Colonoscopy"**.
+<h1 style="font-size: 25px; font-weight: bold; color: black;">
 Short Description:
 </h1>
 Colorectal cancer is one of the leading causes of cancer-related deaths worldwide, and early detection through colonoscopy is critical for improving survival rates. Our paper presents an innovative deep learning algorithm for the automated segmentation of polyps in colonoscopy images. By leveraging advanced neural network architectures, we aim to enhance the accuracy and efficiency of polyp detection, which is crucial for early diagnosis and treatment of colorectal cancer.
